@@ -14,7 +14,7 @@
 
 
 
-<b>2. Inside our directory directory, you can run several commands:</b>
+<b>2. Inside our directory, you can run several commands:</b>
 
 
 
